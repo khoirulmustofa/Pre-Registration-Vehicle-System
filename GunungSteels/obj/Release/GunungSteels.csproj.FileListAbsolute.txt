@@ -1,0 +1,9 @@
+E:\GSG\GunungSteels\bin\Scripts\jquery-ui-1.12.1.js
+E:\GSG\GunungSteels\bin\GunungSteels.dll
+E:\GSG\GunungSteels\bin\GunungSteels.pdb
+E:\GSG\GunungSteels\bin\AjaxControlToolkit.dll
+E:\GSG\GunungSteels\bin\AjaxMin.dll
+E:\GSG\GunungSteels\bin\BarcodeLib.dll
+E:\GSG\GunungSteels\obj\Release\ResolveAssemblyReference.cache
+E:\GSG\GunungSteels\obj\Release\GunungSteels.dll
+E:\GSG\GunungSteels\obj\Release\GunungSteels.pdb

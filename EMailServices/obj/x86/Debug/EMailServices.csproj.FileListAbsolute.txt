@@ -1,0 +1,16 @@
+D:\GSG\EMailServices\bin\Debug\EMailServices.exe.config
+D:\GSG\EMailServices\bin\Debug\EMailServices.exe
+D:\GSG\EMailServices\bin\Debug\EMailServices.pdb
+D:\GSG\EMailServices\obj\x86\Debug\EMailServices.ProjectInstaller.resources
+D:\GSG\EMailServices\obj\x86\Debug\EMailServices.csproj.GenerateResource.Cache
+D:\GSG\EMailServices\obj\x86\Debug\EMailServices.exe
+D:\GSG\EMailServices\obj\x86\Debug\EMailServices.pdb
+E:\GSG\EMailServices\bin\Debug\EMailServices.exe.config
+E:\GSG\EMailServices\bin\Debug\EMailServices.exe
+E:\GSG\EMailServices\bin\Debug\EMailServices.pdb
+E:\GSG\EMailServices\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\GSG\EMailServices\obj\x86\Debug\EMailServices.ProjectInstaller.resources
+E:\GSG\EMailServices\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\GSG\EMailServices\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\GSG\EMailServices\obj\x86\Debug\EMailServices.exe
+E:\GSG\EMailServices\obj\x86\Debug\EMailServices.pdb

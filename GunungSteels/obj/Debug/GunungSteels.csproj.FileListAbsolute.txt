@@ -1,0 +1,13 @@
+D:\GSG\GunungSteels\bin\GunungSteels.dll
+D:\GSG\GunungSteels\bin\GunungSteels.pdb
+D:\GSG\GunungSteels\bin\AjaxControlToolkit.dll
+D:\GSG\GunungSteels\bin\AjaxMin.dll
+D:\GSG\GunungSteels\obj\Debug\GunungSteels.dll
+D:\GSG\GunungSteels\obj\Debug\GunungSteels.pdb
+E:\GSG\GunungSteels\bin\GunungSteels.dll
+E:\GSG\GunungSteels\bin\GunungSteels.pdb
+E:\GSG\GunungSteels\bin\AjaxControlToolkit.dll
+E:\GSG\GunungSteels\bin\AjaxMin.dll
+E:\GSG\GunungSteels\obj\Debug\ResolveAssemblyReference.cache
+E:\GSG\GunungSteels\obj\Debug\GunungSteels.dll
+E:\GSG\GunungSteels\obj\Debug\GunungSteels.pdb

@@ -1,0 +1,19 @@
+{
+       "rows":[
+              {"category_id":"1","name":"SO0011","price":"","qty_onhand":"","color":"","lft":"1","rgt":"44","level":"0","uiicon":""},
+              {"category_id":"2","name":"DO002","price":"","qty_onhand":"","color":"","lft":"2","rgt":"19","level":"1","uiicon":""},
+              {"category_id":"11","name":"QR Code1001","price":"12:15PM 12/01/2017","qty_onhand":"02:15AM 12/01/2017","color":"ragu@abc.com","item":"120","uom":"100","RegistrationGateIn":"02:15AM 12/01/2017","SecurityStatus":"completed","RegistrationStatus":"completed","CustomerStatus":"approved","DeliveryStatus":"in progress","lft":"4","rgt":"5","level":"2","uiicon":"ui-icon-image"},
+              {"category_id":"12","name":"QR Code1002","price":"10:15PM 12/02/2017","qty_onhand":"04:15AM 12/02/2017","color":"ravi@gsg.com","item":"150","uom":"333","RegistrationGateIn":"02:15AM 12/01/2017","SecurityStatus":"completed","RegistrationStatus":"completed","CustomerStatus":"approved","DeliveryStatus":"in progress","lft":"6","rgt":"7","level":"2","uiicon":"ui-icon-document"},
+              {"category_id":"13","name":"QR Code2001","price":"11:15PM 12/11/2017","qty_onhand":"12:15AM 12/11/2017","color":"aki@xyz.com","item":"156","uom":"564","RegistrationGateIn":"02:15AM 12/01/2017","SecurityStatus":"completed","RegistrationStatus":"completed","CustomerStatus":"approved","DeliveryStatus":"in progress","lft":"10","rgt":"11","level":"2","uiicon":"ui-icon-video"},
+              {"category_id":"14","name":"QR Code3003 ","price":"12:15PM 12/04/2017","qty_onhand":"12:15PM 12/04/2017","color":"sil@acm.com","item":"620","uom":"130","RegistrationGateIn":"02:15AM 12/01/2017","SecurityStatus":"completed","RegistrationStatus":"completed","CustomerStatus":"approved","DeliveryStatus":"in progress","lft":"14","rgt":"15","level":"2","uiicon":"ui-icon-clipboard"},
+              {"category_id":"15","name":"QR Code3002 ","price":"12:15PM 12/12/2017","qty_onhand":"12:15PM 12/12/2017","color":"Raj@qwe.com","item":"520","uom":"145","RegistrationGateIn":"02:15AM 12/01/2017","SecurityStatus":"completed","RegistrationStatus":"completed","CustomerStatus":"approved","DeliveryStatus":"in progress","lft":"16","rgt":"17","level":"2","uiicon":"ui-icon-clipboard"},
+              {"category_id":"6","name":"DO003","price":"","qty_onhand":"","color":"","lft":"20","rgt":"43","level":"1","uiicon":""},
+              {"category_id":"18","name":" QR Code111 ","price":"12:55PM 12/06/2017","qty_onhand":"01:15PM 12/06/2017","color":"sqwe@acm.com","item":"720","uom":"230","RegistrationGateIn":"02:15AM 12/01/2017","SecurityStatus":"completed","RegistrationStatus":"completed","CustomerStatus":"approved","DeliveryStatus":"in progress","lft":"34","rgt":"35","level":"2","uiicon":"ui-icon-eject"},
+              {"category_id":"19","name":"QR Code2222","price":"12:45PM 12/07/2017","qty_onhand":"02:15PM 12/07/2017","color":"sakll@acm.com","item":"820","uom":"330","RegistrationGateIn":"02:15AM 12/01/2017","SecurityStatus":"completed","RegistrationStatus":"completed","CustomerStatus":"approved","DeliveryStatus":"in progress","lft":"36","rgt":"37","level":"2","uiicon":"ui-icon-power"},
+              {"category_id":"20","name":"QR Code3333 ","price":"12:15PM 12/09/2017","qty_onhand":"03:15PM 12/09/2017","color":"shaik@acm.com","item":"920","uom":"430","RegistrationGateIn":"02:15AM 12/01/2017","SecurityStatus":"completed","RegistrationStatus":"completed","CustomerStatus":"approved","DeliveryStatus":"in progress","lft":"40","rgt":"41","level":"2","uiicon":"ui-icon-volume-on"}
+              
+              
+
+              
+       ]
+}

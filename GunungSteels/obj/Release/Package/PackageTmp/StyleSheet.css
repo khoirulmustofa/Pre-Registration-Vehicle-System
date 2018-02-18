@@ -1,0 +1,123 @@
+﻿
+.top {
+    width: 100%;
+    height: 72px;
+    background: #C0BDBD;
+}
+#table_one_rgs_frm {
+    width: 400px;
+    height: 230px;
+    float: left;
+    border: 2px solid #cacaca;
+    border-top: 4px solid #969696;
+    left: 433px;
+    position: relative;
+    top: 92px;
+}
+#btn_Login {
+    background-image: url("Submit-01.png");
+}
+#btn_Login {
+    position: relative;
+    bottom:15px;
+    left: 110px;
+    cursor: pointer;
+}
+#btn_Submit {
+    background-image: url("Submit-01.png");
+}
+#btn_Submit {
+    position: relative;
+    top:1076px;
+    right:162px;
+    cursor: pointer;
+}
+#table_scnd_rgs 
+{
+    width: 540px;
+    height: auto;
+    float: left;
+    border: 2px solid #cacaca;
+    border-top: 4px solid #969696;
+    left: 455px;
+    position: relative;
+    top: 40px;
+}
+#txt_SalesOrder_Id
+{
+    position:relative;
+    left:207px;
+}
+#txt_Vehicle_Id {
+    position: relative;
+    left: 236px;
+}
+#txt_Driver_Id {
+    position: relative;
+    left: 242px;
+}
+#txt_Transporter_Name {
+    position: relative;
+    left: 183px;
+}
+#txt_Date {
+    position: relative;
+    left: 270px;
+}
+#txt_Time_Arrival {
+    position: relative;
+    left: 202px;
+}
+#txt_VehicleNumber {
+    position: relative;
+    left: 198px;
+}
+#txt_Source {
+    position: relative;
+    left: 258px;
+}
+#txt_VehicleDetails {
+    position: relative;
+    left: 205px;
+}
+#txt_PermitNumber {
+    position: relative;
+    left: 202px;
+}
+#txt_OrderDetails {
+    position: relative;
+    left: 217px;
+}
+#txt_OrderUnit {
+    position: relative;
+    left: 235px;
+}
+#txt_DriverName {
+    position: relative;
+    left: 219px;
+}
+#txt_Driver_Contact_No {
+    position: relative;
+    left: 155px;
+}
+#txt_Authorized_By {
+    position: relative;
+    left: 212px;
+}
+#txt_Authorization_Contact_No {
+    position: relative;
+    left: 107px;
+}
+#txt_Authorization_Mail {
+    position: relative;
+    left: 183px;
+}
+.container{
+    position:relative;
+    top:80px;
+}
+.main{
+    position:relative;
+    bottom:80px;
+    left:80px;
+}

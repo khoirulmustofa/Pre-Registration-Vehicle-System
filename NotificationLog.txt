@@ -1,0 +1,284 @@
+PRVS Notification Service started 31/01/2018 07:18:52 PM
+PRVS Notification Service stopped 31/01/2018 07:22:33 PM
+PRVS Notification Service started 01/02/2018 09:04:43 AM
+PRVS Notification Service started 01/02/2018 01:31:54 PM
+PRVS Notification Service started 01/02/2018 02:23:51 PM
+PRVS Notification Service started 01/02/2018 02:31:02 PM
+Trying to send email to: PT. MAHARDHIKA JAYA UTAMA Akhileshkumar.Maddheshiya@itcinfotech.com
+Simple Service Error on: 01/02/2018 02:46:24 PM The remote certificate is invalid according to the validation procedure.   at System.Net.Security.SslState.StartSendAuthResetSignal(ProtocolToken message, AsyncProtocolRequest asyncRequest, Exception exception)
+   at System.Net.Security.SslState.CheckCompletionBeforeNextReceive(ProtocolToken message, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.StartSendBlob(Byte[] incoming, Int32 count, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.ProcessReceivedBlob(Byte[] buffer, Int32 count, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.StartReadFrame(Byte[] buffer, Int32 readBytes, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.StartReceiveBlob(Byte[] buffer, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.CheckCompletionBeforeNextReceive(ProtocolToken message, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.StartSendBlob(Byte[] incoming, Int32 count, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.ProcessReceivedBlob(Byte[] buffer, Int32 count, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.StartReadFrame(Byte[] buffer, Int32 readBytes, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.StartReceiveBlob(Byte[] buffer, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.CheckCompletionBeforeNextReceive(ProtocolToken message, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.StartSendBlob(Byte[] incoming, Int32 count, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.ProcessReceivedBlob(Byte[] buffer, Int32 count, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.StartReadFrame(Byte[] buffer, Int32 readBytes, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.StartReceiveBlob(Byte[] buffer, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.CheckCompletionBeforeNextReceive(ProtocolToken message, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.StartSendBlob(Byte[] incoming, Int32 count, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.ProcessReceivedBlob(Byte[] buffer, Int32 count, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.StartReadFrame(Byte[] buffer, Int32 readBytes, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.StartReceiveBlob(Byte[] buffer, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.CheckCompletionBeforeNextReceive(ProtocolToken message, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.StartSendBlob(Byte[] incoming, Int32 count, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.ProcessReceivedBlob(Byte[] buffer, Int32 count, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.StartReadFrame(Byte[] buffer, Int32 readBytes, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.StartReceiveBlob(Byte[] buffer, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.CheckCompletionBeforeNextReceive(ProtocolToken message, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.StartSendBlob(Byte[] incoming, Int32 count, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.ForceAuthentication(Boolean receiveFirst, Byte[] buffer, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.ProcessAuthentication(LazyAsyncResult lazyResult)
+   at System.Net.TlsStream.CallProcessAuthentication(Object state)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean ignoreSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Net.TlsStream.ProcessAuthentication(LazyAsyncResult result)
+   at System.Net.TlsStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   at System.Net.PooledStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   at System.Net.Mail.SmtpConnection.Flush()
+   at System.Net.Mail.ReadLinesCommand.Send(SmtpConnection conn)
+   at System.Net.Mail.EHelloCommand.Send(SmtpConnection conn, String domain)
+   at System.Net.Mail.SmtpConnection.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpTransport.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpClient.GetConnection()
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at EMailServices.Service1.SendMail(String fromMailAddress, String toMailAddress, String subject, String body, String ccMailAddress) in E:\GSG\EMailServices\Service1.cs:line 241
+   at EMailServices.Service1.ScheduleService() in E:\GSG\EMailServices\Service1.cs:line 178
+PRVS Notification Service started 01/02/2018 02:48:14 PM
+Trying to send email to: PT. MAHARDHIKA JAYA UTAMA Akhileshkumar.Maddheshiya@itcinfotech.com
+Simple Service Error on: 01/02/2018 02:48:32 PM The remote certificate is invalid according to the validation procedure.   at System.Net.Security.SslState.StartSendAuthResetSignal(ProtocolToken message, AsyncProtocolRequest asyncRequest, Exception exception)
+   at System.Net.Security.SslState.CheckCompletionBeforeNextReceive(ProtocolToken message, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.StartSendBlob(Byte[] incoming, Int32 count, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.ProcessReceivedBlob(Byte[] buffer, Int32 count, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.StartReadFrame(Byte[] buffer, Int32 readBytes, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.StartReceiveBlob(Byte[] buffer, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.CheckCompletionBeforeNextReceive(ProtocolToken message, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.StartSendBlob(Byte[] incoming, Int32 count, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.ProcessReceivedBlob(Byte[] buffer, Int32 count, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.StartReadFrame(Byte[] buffer, Int32 readBytes, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.StartReceiveBlob(Byte[] buffer, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.CheckCompletionBeforeNextReceive(ProtocolToken message, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.StartSendBlob(Byte[] incoming, Int32 count, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.ProcessReceivedBlob(Byte[] buffer, Int32 count, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.StartReadFrame(Byte[] buffer, Int32 readBytes, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.StartReceiveBlob(Byte[] buffer, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.CheckCompletionBeforeNextReceive(ProtocolToken message, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.StartSendBlob(Byte[] incoming, Int32 count, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.ProcessReceivedBlob(Byte[] buffer, Int32 count, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.StartReadFrame(Byte[] buffer, Int32 readBytes, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.StartReceiveBlob(Byte[] buffer, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.CheckCompletionBeforeNextReceive(ProtocolToken message, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.StartSendBlob(Byte[] incoming, Int32 count, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.ProcessReceivedBlob(Byte[] buffer, Int32 count, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.StartReadFrame(Byte[] buffer, Int32 readBytes, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.StartReceiveBlob(Byte[] buffer, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.CheckCompletionBeforeNextReceive(ProtocolToken message, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.StartSendBlob(Byte[] incoming, Int32 count, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.ForceAuthentication(Boolean receiveFirst, Byte[] buffer, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.ProcessAuthentication(LazyAsyncResult lazyResult)
+   at System.Net.TlsStream.CallProcessAuthentication(Object state)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean ignoreSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Net.TlsStream.ProcessAuthentication(LazyAsyncResult result)
+   at System.Net.TlsStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   at System.Net.PooledStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   at System.Net.Mail.SmtpConnection.Flush()
+   at System.Net.Mail.ReadLinesCommand.Send(SmtpConnection conn)
+   at System.Net.Mail.EHelloCommand.Send(SmtpConnection conn, String domain)
+   at System.Net.Mail.SmtpConnection.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpTransport.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpClient.GetConnection()
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at EMailServices.Service1.SendMail(String fromMailAddress, String toMailAddress, String subject, String body, String ccMailAddress) in E:\GSG\EMailServices\Service1.cs:line 241
+   at EMailServices.Service1.ScheduleService() in E:\GSG\EMailServices\Service1.cs:line 178
+PRVS Notification Service started 01/02/2018 02:55:29 PM
+Trying to send email to: PT. MAHARDHIKA JAYA UTAMA Akhileshkumar.Maddheshiya@itcinfotech.com
+Simple Service Error on: 01/02/2018 03:01:01 PM The remote certificate is invalid according to the validation procedure.   at System.Net.Security.SslState.StartSendAuthResetSignal(ProtocolToken message, AsyncProtocolRequest asyncRequest, Exception exception)
+   at System.Net.Security.SslState.CheckCompletionBeforeNextReceive(ProtocolToken message, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.StartSendBlob(Byte[] incoming, Int32 count, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.ProcessReceivedBlob(Byte[] buffer, Int32 count, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.StartReadFrame(Byte[] buffer, Int32 readBytes, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.StartReceiveBlob(Byte[] buffer, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.CheckCompletionBeforeNextReceive(ProtocolToken message, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.StartSendBlob(Byte[] incoming, Int32 count, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.ProcessReceivedBlob(Byte[] buffer, Int32 count, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.StartReadFrame(Byte[] buffer, Int32 readBytes, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.StartReceiveBlob(Byte[] buffer, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.CheckCompletionBeforeNextReceive(ProtocolToken message, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.StartSendBlob(Byte[] incoming, Int32 count, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.ProcessReceivedBlob(Byte[] buffer, Int32 count, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.StartReadFrame(Byte[] buffer, Int32 readBytes, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.StartReceiveBlob(Byte[] buffer, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.CheckCompletionBeforeNextReceive(ProtocolToken message, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.StartSendBlob(Byte[] incoming, Int32 count, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.ProcessReceivedBlob(Byte[] buffer, Int32 count, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.StartReadFrame(Byte[] buffer, Int32 readBytes, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.StartReceiveBlob(Byte[] buffer, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.CheckCompletionBeforeNextReceive(ProtocolToken message, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.StartSendBlob(Byte[] incoming, Int32 count, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.ProcessReceivedBlob(Byte[] buffer, Int32 count, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.StartReadFrame(Byte[] buffer, Int32 readBytes, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.StartReceiveBlob(Byte[] buffer, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.CheckCompletionBeforeNextReceive(ProtocolToken message, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.StartSendBlob(Byte[] incoming, Int32 count, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.ForceAuthentication(Boolean receiveFirst, Byte[] buffer, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.ProcessAuthentication(LazyAsyncResult lazyResult)
+   at System.Net.TlsStream.CallProcessAuthentication(Object state)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean ignoreSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Net.TlsStream.ProcessAuthentication(LazyAsyncResult result)
+   at System.Net.TlsStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   at System.Net.PooledStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   at System.Net.Mail.SmtpConnection.Flush()
+   at System.Net.Mail.ReadLinesCommand.Send(SmtpConnection conn)
+   at System.Net.Mail.EHelloCommand.Send(SmtpConnection conn, String domain)
+   at System.Net.Mail.SmtpConnection.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpTransport.GetConnection(ServicePoint servicePoint)
+   at System.Net.Mail.SmtpClient.GetConnection()
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at EMailServices.Service1.SendMail(String fromMailAddress, String toMailAddress, String subject, String body, String ccMailAddress) in E:\GSG\EMailServices\Service1.cs:line 241
+   at EMailServices.Service1.ScheduleService() in E:\GSG\EMailServices\Service1.cs:line 178
+PRVS Notification Service started 01/02/2018 03:09:15 PM
+Trying to send email to: PT. MAHARDHIKA JAYA UTAMA Akhileshkumar.Maddheshiya@itcinfotech.com
+PRVS Notification Service started 01/02/2018 03:14:26 PM
+Trying to send email to: PT. MAHARDHIKA JAYA UTAMA Akhileshkumar.Maddheshiya@itcinfotech.com
+PRVS Notification Service started 01/02/2018 03:16:12 PM
+Trying to send email to: PT. MAHARDHIKA JAYA UTAMA Akhileshkumar.Maddheshiya@itcinfotech.com
+PRVS Notification Service started 01/02/2018 03:26:32 PM
+Trying to send email to: PT. MAHARDHIKA JAYA UTAMA Akhileshkumar.Maddheshiya@itcinfotech.com
+Email sent successfully to: PT. MAHARDHIKA JAYA UTAMA Akhileshkumar.Maddheshiya@itcinfotech.com
+PRVS Notification Service started 01/02/2018 03:32:09 PM
+PRVS Notification Service started 01/02/2018 04:06:26 PM
+Trying to send email to: PT. MAHARDHIKA JAYA UTAMA Akhileshkumar.Maddheshiya@itcinfotech.com
+Email sent successfully to: PT. MAHARDHIKA JAYA UTAMA Akhileshkumar.Maddheshiya@itcinfotech.com
+Trying to send email to: PT. MAHARDHIKA JAYA UTAMA Akhileshkumar.Maddheshiya@itcinfotech.com
+Email sent successfully to: PT. MAHARDHIKA JAYA UTAMA Akhileshkumar.Maddheshiya@itcinfotech.com
+PRVS Notification Service started 01/02/2018 04:40:27 PM
+Trying to send email to: PT. MAHARDHIKA JAYA UTAMA Akhileshkumar.Maddheshiya@itcinfotech.com
+Simple Service Error on: 01/02/2018 04:43:30 PM Cannot find table 2.   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at EMailServices.Service1.ScheduleService() in E:\GSG\EMailServices\Service1.cs:line 173
+PRVS Notification Service started 01/02/2018 04:45:29 PM
+Trying to send email to: PT. MAHARDHIKA JAYA UTAMA Akhileshkumar.Maddheshiya@itcinfotech.com
+PRVS Notification Service started 01/02/2018 04:47:14 PM
+Trying to send email to: PT. MAHARDHIKA JAYA UTAMA Akhileshkumar.Maddheshiya@itcinfotech.com
+Simple Service Error on: 01/02/2018 04:47:16 PM Cannot find table 2.   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at EMailServices.Service1.ScheduleService() in E:\GSG\EMailServices\Service1.cs:line 173
+PRVS Notification Service started 01/02/2018 04:47:36 PM
+Trying to send email to: PT. MAHARDHIKA JAYA UTAMA Akhileshkumar.Maddheshiya@itcinfotech.com
+Simple Service Error on: 01/02/2018 04:47:38 PM Cannot find table 2.   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at EMailServices.Service1.ScheduleService() in E:\GSG\EMailServices\Service1.cs:line 173
+PRVS Notification Service started 01/02/2018 04:47:57 PM
+Trying to send email to: PT. MAHARDHIKA JAYA UTAMA Akhileshkumar.Maddheshiya@itcinfotech.com
+Simple Service Error on: 01/02/2018 04:47:59 PM Cannot find table 2.   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at EMailServices.Service1.ScheduleService() in E:\GSG\EMailServices\Service1.cs:line 173
+PRVS Notification Service started 01/02/2018 04:48:57 PM
+Trying to send email to: PT. MAHARDHIKA JAYA UTAMA Akhileshkumar.Maddheshiya@itcinfotech.com
+Email sent successfully to: PT. MAHARDHIKA JAYA UTAMA Akhileshkumar.Maddheshiya@itcinfotech.com
+PRVS Notification Service stopped 01/02/2018 06:10:44 PM
+PRVS Notification Service started 01/02/2018 06:29:33 PM
+PRVS Notification Service stopped 01/02/2018 06:33:54 PM
+PRVS Notification Service started 01/02/2018 06:34:01 PM
+Trying to send email to: PT. MAHARDHIKA JAYA UTAMA Akhileshkumar.Maddheshiya@itcinfotech.com
+Email sent successfully to: PT. MAHARDHIKA JAYA UTAMA Akhileshkumar.Maddheshiya@itcinfotech.com
+PRVS Notification Service started 01/02/2018 10:58:57 PM
+Trying to send email to: PT. MAHARDHIKA JAYA UTAMA Akhileshkumar.Maddheshiya@itcinfotech.com
+Email sent successfully to: PT. MAHARDHIKA JAYA UTAMA Akhileshkumar.Maddheshiya@itcinfotech.com
+Trying to send email to: PT. MAHARDHIKA JAYA UTAMA Akhileshkumar.Maddheshiya@itcinfotech.com
+Email sent successfully to: PT. MAHARDHIKA JAYA UTAMA Akhileshkumar.Maddheshiya@itcinfotech.com
+PRVS Notification Service started 01/02/2018 11:39:05 PM
+Trying to send email to: PT. MAHARDHIKA JAYA UTAMA Akhileshkumar.Maddheshiya@itcinfotech.com
+Email sent successfully to: PT. MAHARDHIKA JAYA UTAMA Akhileshkumar.Maddheshiya@itcinfotech.com
+Trying to send email to: PT. MAHARDHIKA JAYA UTAMA Akhileshkumar.Maddheshiya@itcinfotech.com
+Email sent successfully to: PT. MAHARDHIKA JAYA UTAMA Akhileshkumar.Maddheshiya@itcinfotech.com
+PRVS Notification Service started 01/02/2018 11:42:40 PM
+Trying to send email to: PT. MAHARDHIKA JAYA UTAMA Akhileshkumar.Maddheshiya@itcinfotech.com
+Email sent successfully to: PT. MAHARDHIKA JAYA UTAMA Akhileshkumar.Maddheshiya@itcinfotech.com
+Trying to send email to: PT. MAHARDHIKA JAYA UTAMA Akhileshkumar.Maddheshiya@itcinfotech.com
+Email sent successfully to: PT. MAHARDHIKA JAYA UTAMA Akhileshkumar.Maddheshiya@itcinfotech.com
+Trying to send email to: PT. MAHARDHIKA JAYA UTAMA Akhileshkumar.Maddheshiya@itcinfotech.com
+Email sent successfully to: PT. MAHARDHIKA JAYA UTAMA Akhileshkumar.Maddheshiya@itcinfotech.com
+Trying to send email to: PT.GUNUNG RAJA PAKSI (SPM) - PG cms@grdsteel.com
+Email sent successfully to: PT.GUNUNG RAJA PAKSI (SPM) - PG cms@grdsteel.com
+Trying to send email to: PT. INSQUARE TOTAL ABADI cms@grdsteel.com
+Email sent successfully to: PT. INSQUARE TOTAL ABADI cms@grdsteel.com
+Trying to send email to: PT. INOCREA INDONESIA cms@grdsteel.com
+Email sent successfully to: PT. INOCREA INDONESIA cms@grdsteel.com
+PRVS Notification Service stopped 03/02/2018 04:35:12 PM
+PRVS Notification Service started 03/02/2018 04:43:55 PM
+Trying to send email to: PT. DURA STEEL INDONESIA Akhileshkumar.Maddheshiya@itcinfotech.com
+Email sent successfully to: PT. DURA STEEL INDONESIA Akhileshkumar.Maddheshiya@itcinfotech.com
+Trying to send email to: PT.SATRIA MARGA KARYA PERSADA Akhileshkumar.Maddheshiya@itcinfotech.com
+Email sent successfully to: PT.SATRIA MARGA KARYA PERSADA Akhileshkumar.Maddheshiya@itcinfotech.com
+Trying to send email to: BASTEEL TRADING AG cms@grdsteel.com
+Email sent successfully to: BASTEEL TRADING AG cms@grdsteel.com
+Trying to send email to: PT. PAHALA KARYA AGUNG Akhileshkumar.Maddheshiya@itcinfotech.com
+Email sent successfully to: PT. PAHALA KARYA AGUNG Akhileshkumar.Maddheshiya@itcinfotech.com
+PRVS Notification Service stopped 05/02/2018 08:40:05 PM
+PRVS Notification Service started 05/02/2018 09:14:46 PM
+Simple Service Error on: 08/02/2018 08:10:35 PM Invalid object name 'COMPANY'.   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   at EMailServices.Service1.GetNewCustomers() in E:\GSG\EMailServices\Service1.cs:line 113
+   at EMailServices.Service1.ScheduleService() in E:\GSG\EMailServices\Service1.cs:line 157
+PRVS Notification Service started 09/02/2018 11:38:37 AM
+Trying to send email to: ALUMEX STEEL CORPORATION Akhileshkumar.Maddheshiya@itcinfotech.com
+Email sent successfully to: ALUMEX STEEL CORPORATION Akhileshkumar.Maddheshiya@itcinfotech.com
+Trying to send email to: PT.BAJAMARGA KHARISMAUTAMA Akhileshkumar.Maddheshiya@itcinfotech.com
+Email sent successfully to: PT.BAJAMARGA KHARISMAUTAMA Akhileshkumar.Maddheshiya@itcinfotech.com
+Trying to send email to: PT Ronny Steel Indonesia ronytan2408@gmail.com
+Email sent successfully to: PT Ronny Steel Indonesia ronytan2408@gmail.com
+Trying to send email to: PT SINGGIH MAJU ULALA gdu.ims@grdsteel.com
+Email sent successfully to: PT SINGGIH MAJU ULALA gdu.ims@grdsteel.com
+Trying to send email to: PT AGUNG PODO LUNGO mis07@grdsteel.com
+Email sent successfully to: PT AGUNG PODO LUNGO mis07@grdsteel.com
+Trying to send email to: PT. INOCREA INDONESIA Akhileshkumar.Maddheshiya@itcinfotech.com
+Email sent successfully to: PT. INOCREA INDONESIA Akhileshkumar.Maddheshiya@itcinfotech.com
+Trying to send email to: PT Ronny Steel Indonesia Akhileshkumar.Maddheshiya@itcinfotech.com
+Email sent successfully to: PT Ronny Steel Indonesia Akhileshkumar.Maddheshiya@itcinfotech.com
+Trying to send email to: PT Ronny Steel Indonesia cms@grdsteel.com
+Email sent successfully to: PT Ronny Steel Indonesia cms@grdsteel.com
+Trying to send email to: PT Ronny Steel Indonesia akhileshkumar.Maddheshiya@itcinfotech.com
+Email sent successfully to: PT Ronny Steel Indonesia akhileshkumar.Maddheshiya@itcinfotech.com
+PRVS Notification Service stopped 15/02/2018 10:15:53 AM
+PRVS Notification Service started 15/02/2018 10:16:48 AM
+PRVS Notification Service stopped 15/02/2018 10:41:15 AM
+PRVS Notification Service started 15/02/2018 10:46:08 AM
+Trying to send email to: PT Ronny Steel Indonesia akhileshkumar.Maddheshiya@itcinfotech.com
+Email sent successfully to: PT Ronny Steel Indonesia akhileshkumar.Maddheshiya@itcinfotech.com
+Trying to send email to: PT Ronny Steel Indonesia akhileshkumar.Maddheshiya@itcinfotech.com
+Email sent successfully to: PT Ronny Steel Indonesia akhileshkumar.Maddheshiya@itcinfotech.com
+PRVS Notification Service stopped 15/02/2018 02:06:25 PM
+PRVS Notification Service started 15/02/2018 02:22:48 PM
+Trying to send email to: PT Ronny Steel Indonesia akhileshkumar.Maddheshiya@itcinfotech.com
+Email sent successfully to: PT Ronny Steel Indonesia akhileshkumar.Maddheshiya@itcinfotech.com
+Trying to send email to: PT Ronny Steel Indonesia akhileshkumar.Maddheshiya@itcinfotech.com
+Email sent successfully to: PT Ronny Steel Indonesia akhileshkumar.Maddheshiya@itcinfotech.com
+Trying to send email to: PT MAJU sandesh@grdsteel.com
+Email sent successfully to: PT MAJU sandesh@grdsteel.com
+Trying to send email to: PT MAJU sandesh@grdsteel.com
+Email sent successfully to: PT MAJU sandesh@grdsteel.com
+Trying to send email to: PT MAJU sandesh@grdsteel.com
+Email sent successfully to: PT MAJU sandesh@grdsteel.com
+Trying to send email to: PT MAJU sandesh@grdsteel.com
+Email sent successfully to: PT MAJU sandesh@grdsteel.com
+PRVS Notification Service stopped 18/02/2018 05:05:54 PM
+PRVS Notification Service started 18/02/2018 05:05:56 PM

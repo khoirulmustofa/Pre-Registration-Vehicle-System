@@ -1,0 +1,15 @@
+﻿Installing assembly 'E:\GSG\EMailServices\bin\Release\EMailServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   logfile = E:\GSG\EMailServices\bin\Release\EMailServices.InstallLog
+   assemblypath = E:\GSG\EMailServices\bin\Release\EMailServices.exe
+Installing service Service_Email...
+Service Service_Email has been successfully installed.
+Creating EventLog source Service_Email in log Application...
+Committing assembly 'E:\GSG\EMailServices\bin\Release\EMailServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   logfile = E:\GSG\EMailServices\bin\Release\EMailServices.InstallLog
+   assemblypath = E:\GSG\EMailServices\bin\Release\EMailServices.exe
